@@ -1,0 +1,13 @@
+# pack-refs with: peeled fully-peeled sorted 
+f9c824105cc1029638f47b35816621e162663169 refs/remotes/origin/FDIP_master
+ffe802bc818c26b26524d95ad3a8f6a0b6ea0920 refs/remotes/origin/auto-lint
+2e542841cf1d1fba9bf6e9f8e8228b5f9d844dc0 refs/remotes/origin/cleanup
+28663518e2c7c7279573ec3f2c2d6abaf4d9f846 refs/remotes/origin/develop
+ca4864a8e0641f7acc47f62b811ba86d27004da4 refs/remotes/origin/dram_refactor
+5ff7608182eb40d101d9cb91403bf2477d8c9a4d refs/remotes/origin/dump_config
+d4564cf8f2d840a8c663c0ce3c9d68b8a14bf596 refs/remotes/origin/load_use_latency
+a1800ba5d481d1fbf6abab4d09143b45f62345da refs/remotes/origin/makefile_obj
+118459cfe900f39b05302c4ecda125d6d25ef88d refs/remotes/origin/master
+bb9ecbbe5e66fd86701480a99049f1aee3debb63 refs/remotes/origin/master_pf_stats
+256ee781811aa4e2f43096561962321812031123 refs/remotes/origin/mix_fix
+c4b25f321b66d3bdbe0d0657fcc0cd2b49533e85 refs/tags/IPC1
